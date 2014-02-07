@@ -16,7 +16,7 @@ in the node_modules directory. For example:
         );
 
 The context data, returned by calling the `context` function, can
-be used to inspect various Deployd state data.
+be used to inspect Deployd state data.
 
 The code is a modified version of a Gist by GitHub user Fedia:
 
