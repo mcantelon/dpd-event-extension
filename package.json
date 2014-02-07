@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Mike Cantelon"
+  },
+  "name": "dpd-event-extension",
+  "version": "0.0.1",
+  "description": "Applies patch to dpd-event module to expose require function and context data",
+  "repository": {
+    "url": "git://github.com/mcantelon/dpd-event-extension.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "event-extension.js",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mcantelon/dpd-event-extension/issues"
+  }
+}
